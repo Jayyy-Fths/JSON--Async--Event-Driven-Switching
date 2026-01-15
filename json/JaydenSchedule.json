@@ -1,0 +1,51 @@
+[
+    {
+        "className": "Statistics",
+        "period": 1,
+        "teacher": "Ortner, Alyssa",
+        "roomNumber": "D207",
+        "subjectArea": "Mathematics (FY)"
+    },
+    {
+        "className": "Financial Literacy / Criminality & Law",
+        "period": 2,
+        "teacher": "Erbig / Leahy",
+        "roomNumber": "E115 / G101",
+        "subjectArea": "S1/S2 Rotation"
+    },
+    {
+        "className": "Advanced Website Development",
+        "period": 3,
+        "teacher": "Herbert, Megan",
+        "roomNumber": "B114",
+        "subjectArea": "Technology/CS (FY)"
+    },
+    {
+        "className": "P.E. 12 / Health 12",
+        "period": 4,
+        "teacher": "Withstandley, Jack",
+        "roomNumber": "GYM / H102",
+        "subjectArea": "Quarterly Rotation"
+    },
+    {
+        "className": "Honors Anatomy and Physiology",
+        "period": 5,
+        "teacher": "Ollinger, Edward",
+        "roomNumber": "C204",
+        "subjectArea": "Science (FY)"
+    },
+    {
+        "className": "English 4",
+        "period": 6,
+        "teacher": "Rattien, Jamie",
+        "roomNumber": "E103",
+        "subjectArea": "English (FY)"
+    },
+    {
+        "className": "Leadership in Action",
+        "period": 7,
+        "teacher": "Leahy, Sean",
+        "roomNumber": "G101",
+        "subjectArea": "Elective (FY)"
+    }
+]
